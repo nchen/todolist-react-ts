@@ -1,4 +1,4 @@
-# Simple To Do List demo created by React and TypeScript
+# Simple To Do List demo created in React and TypeScript
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
